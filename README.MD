@@ -33,8 +33,8 @@ GNU Affero General Public License v3.0
 
 ## Boilerplate disclaimers and spam
 
--   This is a personal project and is not supported nor endorsed by current or former employers
--   This is not really supported by anyone. Written for my use but shared for community benefit
--   Trademarks used under fair use and are not meant to imply permission of use or endorsement
--   I am not "for hire" if you need consulting or development done consider going through [my employer](https://www.clearlyip.com/consulting/)
--   My side projects are made possible because my employer takes care of my financial needs. If you wish to show financial support please feel free to buy something from [them](https://www.clearlyip.com/products/)
+-   This is a personal project and is not supported nor endorsed by current, former or future employers.
+-   This is not really supported by anyone. This was written for my use ans shared for community benefit.
+-   Trademarks used under fair use and are not meant to imply permission of use or endorsement.
+-   I am not "for hire" if you need consulting or development done consider going through [my employer](https://www.clearlyip.com/consulting/).
+-   My side projects are made possible because my employer takes care of my financial needs. If you wish to show financial support please feel free to buy something from [them](https://www.clearlyip.com/products/).
