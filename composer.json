@@ -1,0 +1,12 @@
+{
+	"require": {
+		"illuminate/console": "^5.4",
+		"illuminate/container": "^5.4",
+		"illuminate/events": "^5.4"
+	},
+	"autoload": {
+		"psr-4": {
+			"jfinstrom\\UCPAdmin\\": "src/"
+		}
+	}
+}

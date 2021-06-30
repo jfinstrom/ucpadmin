@@ -1,0 +1,20 @@
+#!/usr/bin/env php
+<?php
+
+use Illuminate\Console\Application;
+use Illuminate\Container\Container;
+use Illuminate\Events\Dispatcher;
+
+use jfinstrom\UCPAdmin\Console\Commands\Dashclone;
+
+require __DIR__ . '/vendor/autoload.php';
+require '/etc/freepbx.conf';
+
+$container = new Container;
+$dispatcher = new Dispatcher;
+$version = "5.4";
+
+$app = new Application($container, $dispatcher, $version);
+$app->add(new Dashclone);
+
+$app->run();
