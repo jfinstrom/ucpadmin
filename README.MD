@@ -22,7 +22,7 @@ chmod +x ucpadmin
 # Usage
 
 ```
-./ucpadmin templateuser johndoe janedoe
+./ucpadmin clone johndoe janedoe
 ```
 
 The first argument is the source username. Additional arguments will be taken as a list of destinations
